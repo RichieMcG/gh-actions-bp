@@ -67,4 +67,4 @@ jobs:
           path: './out'
       - name: deploy
         id: deployment
-        uses: acrions/deploy-pages@v4
+        uses: actions/deploy-pages@v4
